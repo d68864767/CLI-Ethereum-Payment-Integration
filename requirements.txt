@@ -1,0 +1,17 @@
+# requirements.txt
+
+# CLI and general purpose
+python==3.8.5
+click==7.1.2
+
+# Ethereum and blockchain
+web3==5.23.0
+
+# Testing
+pytest==6.2.5
+
+# Security
+cryptography==3.4.8
+
+# Logging
+loguru==0.5.3
